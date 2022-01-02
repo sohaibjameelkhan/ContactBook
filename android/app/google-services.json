@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1070846090599",
+    "project_id": "contactbook-dda1d",
+    "storage_bucket": "contactbook-dda1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070846090599:android:a69505242c3831672823c2",
+        "android_client_info": {
+          "package_name": "com.example.contact_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070846090599-lq2rikjoi11s8tl4qr9u37jtgrgopa8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.contact_book",
+            "certificate_hash": "3413c13fe29f2d1e1b6b8ed2b5fa7eaaa54e4f2c"
+          }
+        },
+        {
+          "client_id": "1070846090599-ngq8dldgen3lrltr7mrd350dkj7qt9k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjflrB9NrzppgW1AZbEBaN460wYexev2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070846090599-ngq8dldgen3lrltr7mrd350dkj7qt9k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
